@@ -10,7 +10,8 @@
     "core-js": "^3.6.5",
     "vue": "^2.6.11",
     "vue-router": "^3.2.0",
-    "vuex": "^3.4.0"
+    "vuex": "^3.4.0",
+    "bootstrap-vue": "latest"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.0",
@@ -20,5 +21,17 @@
     "node-sass": "^4.12.0",
     "sass-loader": "^8.0.2",
     "vue-template-compiler": "^2.6.11"
-  }
+  },
+  "description": "## Project setup ``` npm install ```",
+  "main": "babel.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antonsharapof/get_tender_front.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antonsharapof/get_tender_front/issues"
+  },
+  "homepage": "https://github.com/antonsharapof/get_tender_front#readme"
 }
